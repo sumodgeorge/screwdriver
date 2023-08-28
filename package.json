@@ -77,7 +77,7 @@
     "@hapi/hoek": "^9.1.0",
     "@hapi/inert": "^6.0.3",
     "@hapi/vision": "^6.0.0",
-    "@promster/hapi": "^4.2.1",
+    "@promster/hapi": "^9.0.0",
     "async": "^3.2.0",
     "config": "^1.31.0",
     "date-fns": "^1.30.1",
